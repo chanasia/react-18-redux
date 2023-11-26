@@ -1,6 +1,7 @@
 {
   "name": "react-redux",
   "version": "0.1.0",
+  "homepage": "https://chanasia.github.io/react-redux",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.7",
